@@ -3,7 +3,7 @@ Arduino Project
 
 This application can be divided into two main systems,
 
-•Night Light Automation System:
+Night Light Automation System:
 
 •This system automatically turns on the lights at night when someone enters the room.
 
